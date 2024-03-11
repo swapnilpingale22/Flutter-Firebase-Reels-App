@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "873022647402",
+    "project_id": "wallcano-94c89",
+    "storage_bucket": "wallcano-94c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873022647402:android:4d72764ddb37665bfbee13",
+        "android_client_info": {
+          "package_name": "com.example.fun_unlimited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZWkCTeW3Vby5peK3Thqwwwewtt2ZhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873022647402:android:18e42e9dbe320ffbfbee13",
+        "android_client_info": {
+          "package_name": "com.example.tasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZWkCTeW3Vby5peK3Thqwwwewtt2ZhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873022647402:android:cef715e8e44dde55fbee13",
+        "android_client_info": {
+          "package_name": "com.swapnil.wallecano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873022647402-iejiici4ja7v3nskpl5p5lmqhta4ft2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swapnil.wallecano",
+            "certificate_hash": "fecd923e6e1e535ad180316a0c04307ed55ef6d3"
+          }
+        },
+        {
+          "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZWkCTeW3Vby5peK3Thqwwwewtt2ZhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873022647402-lug1ni91lehad61p9ets1e878ko8umvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
